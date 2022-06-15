@@ -1,0 +1,39 @@
+td{
+    border:2px solid black;
+    text-align: center;
+    font-size: xx-large;
+    padding: 10px;
+    background-color: rgb(180, 175, 175);
+    /* background-color:red !important; */
+    cursor:pointer;
+}
+td:hover{
+    background-color: white;
+}
+.equal:hover{
+    background-color:blue;
+}
+/* .op:hover{
+    background-color:red;
+} */
+#text{  
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.container{
+    font-size: xx-large;
+    height:50px;
+    /* border:2px solid black; */
+    width: 500px;
+}
+#black{
+    background-color: rgb(39, 38, 38);
+}
+/* body{
+    text-align: center;
+}
+table{
+    text-align: center;
+} */
+/* *{
+    background-color: blue;
+} */
